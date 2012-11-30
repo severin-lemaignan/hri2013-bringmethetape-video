@@ -1,5 +1,6 @@
 \documentclass[conference]{IEEEtran}
 
+\usepackage[utf8]{inputenc}
 \usepackage{cite}
 \usepackage{graphicx}
 \graphicspath{{figs/}}
@@ -14,15 +15,13 @@
 %
 % paper title
 % can use linebreaks \\ within to get better formatting as desired
-\title{Natural Interaction for Object Hand-Over [Video Abstract]}
+\title{Natural Interaction for Object Hand-Over}
 
 
 \author{\IEEEauthorblockN{Mamoun Gharbi, Séverin Lemaignan, Jim Mainprice, Rachid Alami}
-\IEEEauthorblockA{CNRS-LAAS, 7 av. du Colonel Roche\\
-F-31077 Toulouse, France\\
-Université de Toulouse, UPS, INSA, INP, ISAE, LAAS,\\
-F-31077 Toulouse, France\\
-Email: surname.name@laas.fr}
+\IEEEauthorblockA{CNRS-LAAS, 7 av. du Colonel Roche, F-31077 Toulouse, France\\
+Université de Toulouse, UPS, INSA, INP, ISAE, LAAS, F-31077 Toulouse, France\\
+Email: {\tt surname.name@laas.fr}}
 }
 % make the title area
 \maketitle
@@ -32,7 +31,7 @@ Email: surname.name@laas.fr}
 
 The video presents in a didactic way several of the abilities and algorithms
 required to achieve interactive "pick and place" tasks in a human environment.
-Communication between the human and the robot relies on unconstrainted verbal
+Communication between the human and the robot relies on unconstrained verbal
 dialogue, the robot relies on multi-modal perception to track the human and its
 environment, and implements real-time 3D motion planning algorithms to achieve
 collision-free and human-aware interactive manipulation.
@@ -40,27 +39,57 @@ collision-free and human-aware interactive manipulation.
 \end{abstract}
 
 
-\section{The challenge of natural interactive manipulation}
+\section{The challenges of natural interactive manipulation}
+
+This film covers recent results from the LAAS-CNRS laboratory in the field of
+\emph{interactive manipulation with companion robots}. Our challenge here is to
+exhibit a natural and legible behaviour for a robot intended to live in a human
+environment (an apartment), amongst human peers.
+
+\emph{Natural} because we aim at unconstrained spoken English mixed with
+gestures and perspective taking to communicate with the robot ; \emph{legible}
+because we research algorithms that ensure smooth and human-aware movements,
+also taking into account implicit social rules like placement, or approach
+strategies in human vicinity.
 
 \section{Main demonstrated abilities and algorithms}
 
 The video demonstration is the result of the integration of many different
 components. Besides {\it off the shelf} PR2 components (like the laser-based
-localisation or the 2D navigation), we introduce here (figure~\ref{fig|archi})
+localisation or the 2D navigation), we introduce here (Fig.~\ref{fig|archi})
 several new components focuses on higher level planning and decision making.
 
-\begin{figure}
+\begin{figure}[h!]
         \centering
-        \includegraphics[width=0.9\columnwidth]{archi}
-        \caption{Overview of the robot deliberative architecture. Coloured modules with plain borders are a specific focus of the video.}
+        \includegraphics[width=\columnwidth]{archi}
+        \caption{Overview of the robot deliberative
+        architecture~\cite{Alami2011a}. Coloured modules with plain borders are
+        a specific focus of the video.}
         \label{fig|archi}
 \end{figure}
 
-\subsection{Symbolic modelling of the environment}
+\subsection{Modelling of the environment}
 
+The film gives a overview of some of the techniques used on-line by the robot
+to build a model of its environment. We rely first on a geometric model, fed by
+Kinect-like sensors for human tracking, 2D barcodes for object identification
+and localization, and the PR2 own laser-based localization.
 
+From this geometric model, we build in real-time a symbolic model, stored as an
+ontology~\cite{Lemaignan2010}. This models holds spatial relations between
+objects and agents, along with a set of \emph{affordances} (like reachability,
+visibility, etc.). The system is able to store independent symbolic models for
+each agents through \emph{perspective taking} techniques.
 
 \subsection{Natural language processing}
+
+The video also introduces recent work on natural dialogue
+grounding~\cite{Lemaignan2011a}. The user verbal input is converted to text via
+a custom Android application, and send to the robot where we first parse, then
+semantically ground the user input, in tight interaction with the symbolic
+model. This allows for instance multi-modal communication: human gestures that
+are recognized (like pointing) and stored in the ontology can be used during
+the grounding process.
 
 \subsection{3D motion planning for manipulation}
 
