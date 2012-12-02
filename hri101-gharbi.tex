@@ -41,16 +41,13 @@ collision-free and human-aware interactive manipulation.
 
 \section{The challenges of natural interactive manipulation}
 
-This film covers recent results from the LAAS-CNRS laboratory in the field of
-\emph{interactive manipulation with companion robots}. Our challenge here is to
-exhibit a natural and legible behaviour for a robot intended to live in a human
-environment (an apartment), amongst human peers.
-
+%This film covers recent results from the LAAS-CNRS laboratory in the field of
+%\emph{interactive manipulation with companion robots}. 
+Our challenge exhibited here is \emph{natural} and \emph{legible} behaviour for a robot intended to 
+live in human environment, amongst human peers.
 \emph{Natural} because we aim at unconstrained spoken English mixed with
 gestures and perspective taking to communicate with the robot ; \emph{legible}
-because we research algorithms that ensure smooth and human-aware movements,
-also taking into account implicit social rules like placement, or approach
-strategies in human vicinity.
+because we apply human-aware motion planning algorithms that ensure a smooth human-robot interaction by accounting for implicit social rules which appear in placement or approach strategies.
 
 \section{Main demonstrated abilities and algorithms}
 
@@ -91,16 +88,17 @@ model. This allows for instance multi-modal communication: human gestures that
 are recognized (like pointing) and stored in the ontology can be used during
 the grounding process.
 
-\subsection{3D motion planning for manipulation}
+\subsection{Human-aware motion planning for hand-over}
 
-\subsection{Human-aware trajectory planning for hand-over}
+The handover planning problem as formalized in \cite{Mainprice:12} demonstrates the necessity to account for the human motion in the planning process. Indeed in situation where the human is not directly accessible to the robot, it is important to ensure that the human is able to reach the handover location. Then the problem resides it where the handover should take place given that some position might lead to more human effort or be more time consuming and thus less fluent. We have introduced a parameter we call \textit{mobility} of the human receiver to balance between comfort and efficiency of the handover. The proposed planner combines grid-based and sample-based approaches into an efficient solution.
+%\subsection{Human-aware trajectory planning for hand-over}
 
 \section*{Acknowledgment}
 
 This work has been partially funded by EU project SAPHARI.
 
 \bibliographystyle{IEEEtran}
-\bibliography{IEEEabrv,biblio}
+\bibliography{IEEEabrv,biblio,bib_jim}
 
 % that's all folks
 \end{document}
