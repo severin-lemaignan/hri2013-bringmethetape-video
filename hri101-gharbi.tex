@@ -29,10 +29,10 @@ Email: {\tt surname.name@laas.fr}}
 
 \begin{abstract}
 
-The video presents in a didactic way several of the abilities and algorithms
+The video presents in a didactic way several abilities and algorithms
 required to achieve interactive ``pick and give'' tasks in a human environment.
 Communication between the human and the robot relies on unconstrained verbal
-dialogue, the robot relies on multi-modal perception to track the human and its
+dialogue, the robot uses multi-modal perception to track the human and its
 environment, and implements real-time 3D motion planning algorithms to achieve
 collision-free and human-aware interactive manipulation.
 
@@ -42,7 +42,7 @@ collision-free and human-aware interactive manipulation.
 %This film covers recent results from the LAAS-CNRS laboratory in the field of
 %\emph{interactive manipulation with companion robots}. 
 We tackle here the issue of \emph{natural} and \emph{legible} behaviour for a
-robot intended to live in human environment, amongst human peers.
+robot intended to live in domestic environment, amongst human peers.
 \emph{Natural} because we aim at unconstrained spoken English mixed with
 gestures and perspective taking to communicate with the robot ; \emph{legible}
 because we apply human-aware motion planning algorithms that ensure a smooth
@@ -66,7 +66,7 @@ placement or approach strategies.
 
 \subsection{Modelling of the environment}
 
-The film gives a overview of the techniques used on-line by the robot
+The video clip gives a overview of the techniques used on-line by the robot
 to build a model of its environment. We rely first on a geometric model, fed by
 Kinect-like sensors for human tracking and 2D barcodes for object identification
 and localization.
@@ -74,7 +74,7 @@ and localization.
 From this geometric model, we build in real-time a symbolic model, stored as an
 ontology~\cite{Lemaignan2010}. This models holds spatial relations between
 objects and agents, along with a set of \emph{affordances} (like reachability,
-visibility, etc.).
+visibility, etc.) \cite{Lemaignan2011a}.
 
 \subsection{Natural language processing}
 
@@ -87,17 +87,14 @@ in the ontology are used during the grounding process.
 
 \subsection{Motion planning in human close vicinity}
 
-While planning the robot motions, it is important to account for interaction constraints  such as those defined by the proxemics theory. The motion planning techniques we have introduced in \cite{Mainprice:11}  enable to
-account for such constraints using a cost-based representation. Efficient algorithms incorporating features from stochastic
-optimization are then applied to produce safe plans for fullbody approach motions or collaborative manipulation in highly cluttered scenes.
+While planning the robot motions, it is important to account for interaction constraints  such as those defined by the proxemics theory. Motion planning techniques such as the ones in \cite{Mainprice:11}  enable to
+account for such constraints using a cost-based representation where efficient algorithms incorporating features from stochastic
+optimization are applied to produce low-cost paths. 
 
-\subsection{Sharing effort in handover tasks}
+\subsection{Sharing effort in handover tasks and proactive robot placement}
 
-The handover planning problem as formalized in \cite{Mainprice:12} demonstrates
-the necessity to account for the human motion in the planning process. Indeed in
-situations where the human is not directly accessible to the robot but can handover the object through a window or over a table it is
-important to ensure that the human is able to reach the handing location. Then
-the problem resides in choosing where the handover should take place balancing between human effort and comfort. We have introduced a notion of \textit{mobility} that enables to tune the amount of effort asked to the human. The proposed planner combines grid-based and sampling-based approaches into a simple yet efficient solution.
+The planner demonstrated in this video has been introduced in \cite{Mainprice:12}, it also accounts for interaction constraints. It consists of sampling handover configurations encoding for the human and robot postures ensuring that they are accessible to them both. The configurations are evaluated regarding an interaction cost and the one that minimizes this cost is returned by the planner. This algorithm enables the robot to proactively decide where to give the object. It can produce plans either for a seated or standing human or through a window as shown in the video. 
+We have introduced a notion of \textit{mobility} to tune the amount of effort asked to the human. 
 %\subsection{Human-aware trajectory planning for hand-over}
 
 \section*{Acknowledgment}
