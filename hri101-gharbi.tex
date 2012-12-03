@@ -85,34 +85,24 @@ for multi-modal and perspective-aware communication: affordances (like
 visibility) and human gestures that are recognized (like pointing) and stored
 in the ontology are used during the grounding process.
 
-\subsection{Human-aware motion planning for hand-over}
+\subsection{Motion planning in human close vicinity}
+
+While planning the robot motions, it is important to account for interaction constraints  such as those defined by the proxemics theory. The motion planning techniques we have introduced in \cite{Mainprice:11}  enable to
+account for such constraints using a cost-based representation. Efficient algorithms incorporating features from stochastic
+optimization are then applied to produce safe plans for fullbody approach motions or collaborative manipulation in highly cluttered scenes.
+
+\subsection{Sharing effort in handover tasks}
 
 The handover planning problem as formalized in \cite{Mainprice:12} demonstrates
-the necessity to account for the human motion in the planning process. In
-situations where the human is not directly accessible to the robot, it is
-important to ensure that the human is able to reach the handover location. Then
-the problem resides in where the handover should take place given that some
-positions might lead to more human effort or be more time consuming and thus
-less fluent. We have introduced a parameter we call \textit{mobility} of the
-human receiver to balance between comfort and efficiency of the handover. The
-proposed planner combines grid-based and sampling-based approaches into an
-efficient solution.
+the necessity to account for the human motion in the planning process. Indeed in
+situations where the human is not directly accessible to the robot but can handover the object through a window or over a table it is
+important to ensure that the human is able to reach the handing location. Then
+the problem resides in choosing where the handover should take place balancing between human effort and comfort. We have introduced a notion of \textit{mobility} that enables to tune the amount of effort asked to the human. The proposed planner combines grid-based and sampling-based approaches into a simple yet efficient solution.
 %\subsection{Human-aware trajectory planning for hand-over}
-
-\subsection{Manipulation planning in close human vicinity}
-
-Object handovers require manipulation from the robot part. To achieve this task
-safely and in a human friendly manner it is important to account for
-interaction constraints such as defined by the proxemics theory. The motion
-planning techniques we have introduced in \cite{Mainprice:11}  enable to
-account for such constraints by incorporating features from stochastic
-optimization to cope with the complexity of the cost-based motion planning
-problem. They enable to produce safe plans for full body approach motions or
-manipulation in highly cluttered scenes.
 
 \section*{Acknowledgment}
 
-This work is supported by EU FP7 project SAPHARI.
+This work has been supported by EU FP7 ``SAPHARI'' under grant agreement no. ICT-287513.
 
 \bibliographystyle{IEEEtran}
 \bibliography{IEEEabrv,biblio,bib_jim}
