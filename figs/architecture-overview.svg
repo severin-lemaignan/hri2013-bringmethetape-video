@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="769.69537"
-   height="396.3472"
+   width="700.86389"
+   height="375.62531"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="architecture-overview.svg"
    inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
    inkscape:export-xdpi="300"
@@ -1419,14 +1419,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="273.08665"
-     inkscape:cy="263.6014"
+     inkscape:zoom="0.7"
+     inkscape:cx="220.71225"
+     inkscape:cy="60.062707"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-width="1280"
+     inkscape:window-height="968"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1452,7 +1452,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(42.895725,-642.61388)">
+     transform="translate(42.884827,-642.625)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3228"
@@ -1529,7 +1529,7 @@
          height="64.604134"
          width="279.65076"
          id="rect2816-3-7-3-4-6"
-         style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#73a642;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.65053821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
+         style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#92ca5d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.65053821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
       <g
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -1540,23 +1540,23 @@
         <text
            xml:space="preserve"
            style="font-size:11.96565342px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-           x="309.33664"
-           y="222.62445"
+           x="449.21637"
+           y="221.19962"
            id="text2818-3-4-1-9"><tspan
-             style="font-size:11.96565342px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             style="font-size:13.95992851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
              sodipodi:role="line"
              id="tspan2820-19-1-4-5"
-             x="309.33664"
-             y="222.62445">Symbolic facts and beliefs</tspan><tspan
+             x="449.21637"
+             y="221.19962">Symbolic facts and</tspan><tspan
              id="tspan9496"
-             style="font-size:11.96565342px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             style="font-size:13.95992851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
              sodipodi:role="line"
-             x="309.33664"
-             y="237.58151">management</tspan><tspan
-             style="font-size:11.96565342px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="449.21637"
+             y="238.64952">beliefs management</tspan><tspan
+             style="font-size:13.95992851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
              sodipodi:role="line"
-             x="309.33664"
-             y="252.53859"
+             x="449.21637"
+             y="256.09943"
              id="tspan2999-0" /></text>
         <text
            xml:space="preserve"
@@ -1572,72 +1572,6 @@
              x="317.45807"
              y="209.73276"
              id="tspan2999-1-7" /></text>
-      </g>
-    </g>
-    <g
-       id="g9518"
-       transform="matrix(0.75472993,0,0,0.75439755,-21.577688,279.26757)"
-       style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">
-      <rect
-         inkscape:export-ydpi="300"
-         inkscape:export-xdpi="300"
-         inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
-         ry="13.25561"
-         rx="13.249772"
-         y="653.80981"
-         x="761.30298"
-         height="70.201309"
-         width="228.95474"
-         id="rect2816-3-7-1"
-         style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fcaf3e;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.65053821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
-      <g
-         inkscape:export-ydpi="300"
-         inkscape:export-xdpi="300"
-         inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
-         transform="matrix(0.98335243,0,0,0.9832946,358.16167,315.11691)"
-         id="g3254-7"
-         style="font-size:13.47744751px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">
-        <text
-           xml:space="preserve"
-           style="font-size:13.47744751px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-           x="482.51651"
-           y="344.40884"
-           id="text2818-3-2"><tspan
-             sodipodi:role="line"
-             id="tspan2820-19-7"
-             x="482.51651"
-             y="344.40884" /></text>
-        <text
-           xml:space="preserve"
-           style="font-size:16.17293739px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-           x="455.74469"
-           y="364.12863"
-           id="text2818-3-4-1-5-2"><tspan
-             style="font-size:16.17293739px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-             id="tspan5058"
-             sodipodi:role="line"
-             x="455.74469"
-             y="364.12863">Human-aware </tspan><tspan
-             style="font-size:16.17293739px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-             id="tspan3571"
-             sodipodi:role="line"
-             x="455.74469"
-             y="384.34482">Motion and</tspan><tspan
-             style="font-size:16.17293739px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-             id="tspan3573"
-             sodipodi:role="line"
-             x="455.74469"
-             y="404.56097">Manipulation Planning</tspan><tspan
-             style="font-size:16.17293739px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-             id="tspan3845"
-             sodipodi:role="line"
-             x="455.74469"
-             y="424.77716" /><tspan
-             style="font-size:16.17293739px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-             sodipodi:role="line"
-             x="455.74469"
-             y="444.99332"
-             id="tspan2999-2-1" /></text>
       </g>
     </g>
     <g
@@ -1671,23 +1605,23 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="507.14932"
-       y="737.61163"
+       x="561.62872"
+       y="751.85449"
        id="text4711-85-1-8"
        inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        transform="scale(1.0002497,0.99975037)"><tspan
          sodipodi:role="line"
-         x="507.14932"
-         y="737.61163"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="561.62872"
+         y="751.85449"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          id="tspan3641">motion plan</tspan><tspan
          sodipodi:role="line"
-         x="507.14932"
-         y="750.11163"
+         x="561.62872"
+         y="766.85449"
          id="tspan4454-1"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">requests</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">requests</tspan></text>
     <g
        id="g9509"
        style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
@@ -1703,30 +1637,30 @@
          height="62.73452"
          width="249.87627"
          id="rect2816-3-1"
-         style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.43401759;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:4.30844927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.92534976, 12.92534976;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
+         style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.43401759;color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:4.30844927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.92534976, 12.92534976;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
       <text
          transform="scale(1.0000294,0.99997061)"
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
          inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
          id="text4711-85-1-4-3-7"
-         y="579.40967"
-         x="57.66526"
+         y="577.98938"
+         x="242.58075"
          style="font-size:15.90322971px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          xml:space="preserve"><tspan
            id="tspan3847"
-           y="579.40967"
-           x="57.66526"
+           y="577.98938"
+           x="242.58075"
            sodipodi:role="line" /><tspan
-           style="font-size:15.90322971px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           style="font-size:18.55376816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
            id="tspan3851"
-           y="599.2887"
-           x="57.66526"
+           y="600.51031"
+           x="248.48752"
            sodipodi:role="line">Human-aware </tspan><tspan
-           style="font-size:15.90322971px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           style="font-size:18.55376816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
            id="tspan3567"
-           y="619.16772"
-           x="57.66526"
+           y="623.70258"
+           x="248.4875"
            sodipodi:role="line">symbolic task planning </tspan></text>
     </g>
     <flowRoot
@@ -1753,7 +1687,7 @@
          x="136.40132"
          y="657.02002"
          id="tspan4454-7-3-86"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">shared plans</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">shared plans</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1790,7 +1724,7 @@
     <g
        id="g9742"
        style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       transform="matrix(0.75472993,0,0,0.75439755,40.94983,241.89018)">
+       transform="matrix(0.75472993,0,0,0.75439755,40.94983,229.89018)">
       <rect
          ry="16.663715"
          rx="16.656376"
@@ -1832,44 +1766,43 @@
          id="flowPara5017" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="324.57028"
-       y="733.1026"
+       x="315.98615"
+       y="724.51416"
        id="text4711-85-1-4-3-4-0-6-7-7"
        inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        transform="scale(1.0002497,0.99975037)"><tspan
          sodipodi:role="line"
-         x="324.57028"
-         y="733.1026"
-         id="tspan3595"><tspan
-   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-   id="tspan9864">world model</tspan> and </tspan><tspan
+         x="315.98615"
+         y="724.51416"
+         id="tspan3595"
+         style="font-size:12px">world model and </tspan><tspan
          sodipodi:role="line"
-         x="324.57028"
-         y="745.6026"
+         x="315.98615"
+         y="739.51416"
          id="tspan3597"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">agents beliefs</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">agents beliefs</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="321.30133"
-       y="849.57581"
+       x="294.16525"
+       y="844.57452"
        id="text4711-85-1-4-3-4-0-6-7-7-9"
        inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        transform="scale(1.0002497,0.99975037)"><tspan
          sodipodi:role="line"
-         x="321.30133"
-         y="849.57581"
+         x="294.16525"
+         y="844.57452"
          id="tspan4454-7-3-3-0-3-1-1-9"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">symbolic</tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">symbolic</tspan><tspan
          sodipodi:role="line"
-         x="321.30133"
-         y="862.07581"
+         x="294.16525"
+         y="859.57452"
          id="tspan9866"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">facts</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">facts</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1912,25 +1845,25 @@
     <g
        id="g9722"
        style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       transform="matrix(0.75472993,0,0,0.75439755,-46.193027,247.60447)">
+       transform="matrix(0.75472993,0,0,0.75439755,-62.621598,226.89018)">
       <g
          id="g13011"
          transform="translate(0,13.25561)">
         <g
-           style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.43401759;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:4.30844927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.92534976, 12.92534976;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.43401759;color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:4.30844927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.92534976, 12.92534976;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
            id="g9600"
            transform="translate(6.0295083,-111.84062)">
           <path
              transform="translate(0,466.36239)"
              id="path9598"
              d="m 534.27696,679.0599 -402.12999,0 c -5.54,0 -10,-4.46 -10,-10 l 0,-55.0031 c 0,-5.54 4.46,-10 10,-10 l 0,0 402.12999,0"
-             style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:4.30844927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.92534976, 12.92534976;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:4.30844927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.92534976, 12.92534976;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
              inkscape:connector-curvature="0" />
           <path
              transform="translate(0,466.36239)"
              id="rect9593"
              d="m 534.27696,604.0568 402.31746,0 c 5.54,0 10,4.46 10,10 l 0,55.0031 c 0,5.54 -4.46,10 -10,10 l -402.31746,0"
-             style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:4.30844927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.92534976, 12.92534976;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:4.30844927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.92534976, 12.92534976;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
              inkscape:connector-curvature="0" />
         </g>
         <g
@@ -2026,7 +1959,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.57436561,0,0,0.57411267,48.599369,799.62588)"
+       transform="matrix(0.57436561,0,0,0.57411267,32.52794,787.12588)"
        id="g4821"
        inkscape:export-filename="/home/slemaign/work/architectures/spark/spark2_proposal2/2.png"
        inkscape:export-xdpi="150"
@@ -2038,7 +1971,7 @@
          style="font-size:7.24353933px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke-width:1.81088483;stroke-miterlimit:4;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">
         <path
            style="font-size:7.24353933px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:2.27720475;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-           d="m 465.13733,253.17559 0.0761,22.1342"
+           d="m 465.13733,253.17559 0.0761,16.76532"
            id="path4823"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -2051,7 +1984,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.27451577,0.66777407,-0.66806829,0.27439487,405.52519,446.80524)"
+       transform="matrix(0.27451577,0.66777407,-0.66806829,0.27439487,383.38233,446.80524)"
        id="g4821-2"
        inkscape:export-filename="/home/slemaign/work/architectures/spark/spark2_proposal2/2.png"
        inkscape:export-xdpi="150"
@@ -2061,7 +1994,7 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path4823-1"
-         d="M 518.20002,343.56488 C 507.20729,323.01956 474.37383,296.89711 448.90841,295.41067"
+         d="M 509.35934,326.03281 C 499.04472,311.64662 460.9736,295.66755 448.90841,295.41067"
          style="font-size:13.84828472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:3.46207118;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
       <path
          sodipodi:nodetypes="cccc"
@@ -2105,25 +2038,20 @@
        inkscape:export-xdpi="300"
        inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
        id="text9868"
-       y="756.16522"
-       x="101.12331"
+       y="752.5929"
+       x="95.410446"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        xml:space="preserve"><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          id="tspan9874"
-         y="756.16522"
-         x="101.12331"
+         y="752.5929"
+         x="95.410446"
          sodipodi:role="line">world model</tspan><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         y="768.66522"
-         x="101.12331"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         y="767.5929"
+         x="95.410446"
          sodipodi:role="line"
-         id="tspan4722">and agents</tspan><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         y="781.16522"
-         x="101.12331"
-         sodipodi:role="line"
-         id="tspan3465">beliefs</tspan></text>
+         id="tspan3465">and agents beliefs</tspan></text>
     <g
        transform="matrix(-0.70060255,0.17550802,-0.17558535,-0.70029401,494.24374,885.52976)"
        id="g9876"
@@ -2184,7 +2112,7 @@
          inkscape:transform-center-y="0.01114576" />
     </g>
     <g
-       transform="matrix(-0.72195878,0.021196,-0.02120534,-0.72164083,849.254,944.9513)"
+       transform="matrix(0.58759567,-0.42000605,-0.41980621,-0.58734819,412.03052,1110.4093)"
        id="g9894"
        inkscape:export-filename="/home/slemaign/work/architectures/spark/spark2_proposal2/2.png"
        inkscape:export-xdpi="150"
@@ -2194,15 +2122,16 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path9896"
-         d="M 490.79516,347.23916 C 494.66215,303.76464 457.24277,227.96967 412.88363,211.92865"
+         d="M 490.79516,347.23916 C 482.79155,296.7745 435.47582,245.49928 421.88721,235.83217"
          style="font-size:13.84828472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:3.46207118;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
       <path
-         inkscape:transform-center-x="2.2728432"
+         inkscape:transform-center-x="2.6760635"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path9898"
-         d="m 413.79401,217.49836 3.90326,-8.24509 -9.15263,0.80751 z"
-         style="font-size:13.84828472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#000000;stroke-width:3.46207118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
+         d="m 420.13273,240.06701 6.2135,-6.67752 -8.96789,-2.00034 z"
+         style="font-size:13.84828472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#000000;stroke-width:3.46207118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:transform-center-y="1.5523111" />
       <path
          inkscape:transform-center-y="0.01114576"
          style="font-size:13.84828472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#000000;stroke-width:3.46207118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
@@ -2223,20 +2152,20 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path9906"
-         d="M 784.38438,268.45795 C 684.35618,239.43716 526.67101,254.91404 408.33798,205.53815"
+         d="M 748.71266,290.84531 C 648.68446,261.82452 524.36669,265.72816 406.03366,216.35227"
          style="font-size:13.84828472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:3.46207118;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" />
       <path
          inkscape:transform-center-x="1.9434842"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path9908"
-         d="m 411.76335,211.41975 3.17036,-8.5537 -9.04753,1.60156 z"
+         d="m 405.52886,220.08433 3.17036,-8.5537 -9.04753,1.60156 z"
          style="font-size:13.84828472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#000000;stroke-width:3.46207118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          inkscape:transform-center-y="0.14721806" />
       <path
          inkscape:transform-center-y="-0.09194428"
          style="font-size:13.84828472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#000000;stroke-width:3.46207118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         d="m 782.08365,272.44074 8.73531,-2.6313 -6.73509,-6.24937 z"
+         d="m 745.76484,294.56221 8.73531,-2.6313 -6.73509,-6.24937 z"
          id="path9910"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc"
@@ -2451,95 +2380,165 @@
       </g>
     </g>
     <g
-       id="g13141"
-       transform="translate(258.00237,-44.793351)">
+       id="g4613"
+       transform="translate(-77.142858,31.071429)">
       <g
-         id="g13143"
-         transform="matrix(1.1112531,0,0,1.1106984,1413.6454,-2395.3637)"
-         inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300"
-         style="font-size:9.00109673px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">
-        <path
+         style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         transform="matrix(0.75472993,0,0,0.75439755,-21.577688,279.26757)"
+         id="g9518">
+        <rect
+           style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fcaf3e;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.65053821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="rect2816-3-7-1"
+           width="228.95474"
+           height="70.201309"
+           x="761.30298"
+           y="653.80981"
+           rx="13.249772"
+           ry="13.25561"
+           inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           style="font-size:13.47744751px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="g3254-7"
+           transform="matrix(0.98335243,0,0,0.9832946,358.16167,315.11691)"
+           inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <text
+             id="text2818-3-2"
+             y="344.40884"
+             x="482.51651"
+             style="font-size:13.47744751px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="344.40884"
+               x="482.51651"
+               id="tspan2820-19-7"
+               sodipodi:role="line" /></text>
+          <text
+             id="text2818-3-4-1-5-2"
+             y="360.75842"
+             x="633.10907"
+             style="font-size:16.17293739px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="360.75842"
+               x="639.11603"
+               sodipodi:role="line"
+               id="tspan5058"
+               style="font-size:18.86842728px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">Human-aware </tspan><tspan
+               y="384.34396"
+               x="633.10907"
+               sodipodi:role="line"
+               id="tspan3571"
+               style="font-size:18.86842728px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">Motion and</tspan><tspan
+               y="407.9295"
+               x="633.10907"
+               sodipodi:role="line"
+               id="tspan3573"
+               style="font-size:18.86842728px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">Manipulation Planning</tspan><tspan
+               y="431.51501"
+               x="633.10907"
+               sodipodi:role="line"
+               id="tspan3845"
+               style="font-size:18.86842728px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" /><tspan
+               id="tspan2999-2-1"
+               y="455.10056"
+               x="633.10907"
+               sodipodi:role="line"
+               style="font-size:18.86842728px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" /></text>
+        </g>
+      </g>
+      <g
+         transform="translate(258.00237,-44.793351)"
+         id="g13141">
+        <g
+           style="font-size:9.00109673px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
            inkscape:export-ydpi="300"
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
-           transform="matrix(1.748766,0,0,1.6729641,162.95307,-18.307599)"
-           d="m -652.14288,1742.6659 c 0,5.5228 -4.47716,10 -10,10 -5.52285,0 -10,-4.4772 -10,-10 0,-5.5229 4.47715,-10 10,-10 5.52284,0 10,4.4771 10,10 z"
-           sodipodi:ry="10"
-           sodipodi:rx="10"
-           sodipodi:cy="1742.6659"
-           sodipodi:cx="-662.14288"
-           id="path13145"
-           style="font-size:9.84912586px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeee;stroke:#000000;stroke-width:0.78794974px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-           sodipodi:type="arc" />
+           transform="matrix(1.1112531,0,0,1.1106984,1413.6454,-2395.3637)"
+           id="g13143">
+          <path
+             sodipodi:type="arc"
+             style="font-size:9.84912586px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeee;stroke:#000000;stroke-width:0.78794974px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             id="path13145"
+             sodipodi:cx="-662.14288"
+             sodipodi:cy="1742.6659"
+             sodipodi:rx="10"
+             sodipodi:ry="10"
+             d="m -652.14288,1742.6659 c 0,5.5228 -4.47716,10 -10,10 -5.52285,0 -10,-4.4772 -10,-10 0,-5.5229 4.47715,-10 10,-10 5.52284,0 10,4.4771 10,10 z"
+             transform="matrix(1.748766,0,0,1.6729641,162.95307,-18.307599)"
+             inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300" />
+        </g>
+        <g
+           style="fill:#3465a4;stroke-width:2.44885373;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(1.2250629,0,0,1.2250629,-73.1538,-186.2044)"
+           id="g13229">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 306.30164,820.71917 -8.35862,10.44557"
+             id="path13167"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 310.66711,820.72714 -5.02666,16.49873"
+             id="path13169"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc"
+             id="path13201"
+             d="m 304.68123,823.20304 14.88472,0"
+             style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 314.06773,820.75234 3.79251,15.5258"
+             id="path13171"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 299.05607,832.03476 24.99292,-0.1546"
+             id="path13177"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 301.85357,826.95118 19.70636,0"
+             id="path13179"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 306.62987,820.67766 11.42939,0"
+             id="path13203"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc"
+             id="path13199"
+             d="m 318.394,820.66755 6.10082,10.02743"
+             style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           transform="translate(-547.55321,513.17605)"
+           id="path13251"
+           d="m 842.08842,316.79435 c 28.8827,12.34724 -3.37496,-17.93021 13.38452,-17.93021 6.91835,0 10.33015,2.69154 15.53109,6.69226"
+           style="fill:none;stroke:#cc0000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       </g>
-      <g
-         id="g13229"
-         transform="matrix(1.2250629,0,0,1.2250629,-73.1538,-186.2044)"
-         style="fill:#3465a4;stroke-width:2.44885373;stroke-miterlimit:4;stroke-dasharray:none">
-        <path
-           sodipodi:nodetypes="cc"
-           id="path13167"
-           d="m 306.30164,820.71917 -8.35862,10.44557"
-           style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cc"
-           id="path13169"
-           d="m 310.66711,820.72714 -5.02666,16.49873"
-           style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 304.68123,823.20304 14.88472,0"
-           id="path13201"
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cc"
-           id="path13171"
-           d="m 314.06773,820.75234 3.79251,15.5258"
-           style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cc"
-           id="path13177"
-           d="m 299.05607,832.03476 24.99292,-0.1546"
-           style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cc"
-           id="path13179"
-           d="m 301.85357,826.95118 19.70636,0"
-           style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cc"
-           id="path13203"
-           d="m 306.62987,820.67766 11.42939,0"
-           style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#3465a4;stroke:#000000;stroke-width:2.44885373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 318.394,820.66755 6.10082,10.02743"
-           id="path13199"
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         style="fill:none;stroke:#cc0000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 842.08842,316.79435 c 28.8827,12.34724 -3.37496,-17.93021 13.38452,-17.93021 6.91835,0 10.33015,2.69154 15.53109,6.69226"
-         id="path13251"
-         transform="translate(-547.55321,513.17605)"
-         inkscape:connector-curvature="0" />
     </g>
     <g
        transform="matrix(0.75472993,0,0,0.75439755,-39.67563,403.62228)"
        style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        id="g3437">
       <rect
-         style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ef2929;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.65053821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-size:13.25269127px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f18787;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.65053821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          id="rect3439"
          width="249.87627"
          height="45.691593"
@@ -2553,7 +2552,7 @@
       <text
          xml:space="preserve"
          style="font-size:15.90322971px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         x="65.614891"
+         x="58.9902"
          y="603.27032"
          id="text3441"
          inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
@@ -2561,9 +2560,9 @@
          inkscape:export-ydpi="300"
          transform="scale(1.0000294,0.99997061)"><tspan
            sodipodi:role="line"
-           x="65.614891"
+           x="58.9902"
            y="603.27032"
-           style="font-size:15.90322971px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           style="font-size:18.55376816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
            id="tspan4712">Dialogue processing</tspan></text>
     </g>
     <g
@@ -2660,25 +2659,25 @@
        inkscape:export-xdpi="300"
        inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
        id="text3452"
-       y="740.0274"
-       x="283.88123"
+       y="733.96497"
+       x="267.72284"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        xml:space="preserve"><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          id="tspan3458"
-         y="740.0274"
-         x="283.88123"
+         y="733.96497"
+         x="267.72284"
          sodipodi:role="line">Events</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 321.9366,726.00664 0,21.25"
+       d="m 313.85538,717.92542 0,21.25"
        id="path3463"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="114.3343"
-       y="805.10602"
+       x="113.62019"
+       y="804.74878"
        id="text3467"
        inkscape:export-filename="/home/mwarnier/Documents/Publications/mat_publications/icra2012/figs/supervisor-architecture-new.png"
        inkscape:export-xdpi="300"
@@ -2686,13 +2685,13 @@
        transform="scale(1.0002497,0.99975037)"><tspan
          id="tspan3473"
          sodipodi:role="line"
-         x="114.3343"
-         y="805.10602"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">natural language</tspan><tspan
+         x="113.62019"
+         y="804.74878"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">natural language</tspan><tspan
          sodipodi:role="line"
-         x="114.3343"
-         y="817.60602"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="113.62019"
+         y="819.74878"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          id="tspan3480">grounding</tspan></text>
   </g>
 </svg>
